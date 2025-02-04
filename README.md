@@ -1,5 +1,8 @@
 # Project View
-[![Watch the Project](Project/Working%20Phase.heic)](Project/WorkingVideo.mp4)
+<video width="600" controls>
+  <source src="Project/WorkingVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Project Name 
 <h3>Wheatstone Bridge Smoke Detector</h3>
