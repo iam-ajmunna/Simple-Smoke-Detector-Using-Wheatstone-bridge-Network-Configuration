@@ -4,7 +4,7 @@
 # Project Description 
 Wheatstone bridge is a popular network configuration for detecting small changes in quantity.
 
-<p align="center"><img src="Project%20Image/Wheatstone%20Bridge.PNG" alt="Alt text" width="600" height="500"></p>
+<p align="center"><img src="Images/Wheatstone%20Bridge.PNG" alt="Alt text" width="600" height="500"></p>
 
 <div align="center"> <b>Figure 1:</b> Wheatstone bridge smoke detector: (a) DC bridge configuration; (b) outside appearance; (c) internal construction </div><br>
 
