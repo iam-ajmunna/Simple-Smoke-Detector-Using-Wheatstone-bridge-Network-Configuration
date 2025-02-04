@@ -1,7 +1,3 @@
-# Project View
-<p align="left"><img src="Project/Working%20Phase.heic" alt="Alt text" width="600" height="500"></p>
-![Connections](Project/Connections.png)
-
 # Project Name 
 <h3>Wheatstone Bridge Smoke Detector</h3>
 
