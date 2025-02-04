@@ -1,3 +1,6 @@
+# Project View
+[![Watch the Project](Project/Working%20Phase.heic)](Project/WorkingVideo.mp4)
+
 # Project Name 
 <h3>Wheatstone Bridge Smoke Detector</h3>
 
